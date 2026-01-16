@@ -103,51 +103,7 @@ Expressions: `happy`, `sad`, `surprised`, `angry`, `neutral`, `thinking`
 }
 ```
 
-#### Available Actions
-
-| Action | Parameters | Description |
-|--------|------------|-------------|
-| `moveToLocation` | `location` (string) | Move to named location |
-| `sitAtChair` | `chairNumber` (int) | Sit at a chair |
-| `standUp` | — | Stand up from sitting |
-| `examineMenu` | `focus` (string, optional) | Look at a display |
-| `playArcadeGame` | `game` (string, optional) | Play arcade cabinet |
-| `changeCameraAngle` | `angle`, `transition` | Change camera state |
-| `idle` | `idleType` (standing/sitting/leaning) | Set idle pose |
-
-## Interactive Objects
-
-Objects in the scene are identified by Unity tags:
-
-| Tag | Interaction |
-|-----|-------------|
-| `Caffee Chair` | Sit down |
-| `Cafe Ad Display` | Look at / examine |
-| `Slot Machine Chair` | Lean on |
-| `Claw Machine` | Play claw game |
-| `Arcade` | Play arcade cabinet |
-
-Each interactive object should have an `InteractionSpot` child transform that defines where the character stands/sits.
-
-## Setup
-
-### 1. Open the Unity Project
-
-- Open Unity Hub
-- Add the `Golem/` folder
-- Open the project (requires Unity 6000.x)
-
-### 2. Open the Main Scene
-
-- Navigate to `Assets/Scenes/`
-- Open `Main.unity`
-
-### 3. Run the Project
-
-- Press Play in Unity
-- The character will be idle, waiting for WebSocket connection
-
-### 4. Connect Your AI
+### Connect Your AI
 
 Your AI server needs to:
 
