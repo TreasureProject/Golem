@@ -1,0 +1,9 @@
+All assets in this directory (INab Studio\Demo Assets\Unity Companion License) are licensed under the Unity Companion License.
+
+You can review the full license here:
+https://unity.com/legal/licenses/unity-companion-license
+
+In each individual folder directory of the different asset packs, you will find a Link.txt file that contains a link to the respective asset.
+
+
+

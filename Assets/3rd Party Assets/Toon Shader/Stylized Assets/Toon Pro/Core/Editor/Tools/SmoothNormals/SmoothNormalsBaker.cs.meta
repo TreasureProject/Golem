@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2136d7a7cf90f044499c0d41682fd44d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225921
+  packageName: 'Toon Pro: Ultimate Stylized Shading'
+  packageVersion: 3.1.2
+  assetPath: Assets/INab Studio/Stylized Assets/Toon Pro/Core/Editor/Tools/SmoothNormals/SmoothNormalsBaker.cs
+  uploadId: 769451

@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ellen_Hair_Mat 1
+  m_Shader: {fileID: 4800000, guid: 60e29b7951f20da47b11861d166b7036, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _OUTLINETYPE_NORMAL
+  - _OVERLAYMODE1_NONE
+  - _OVERLAYMODE_HATCHING
+  - _RIMSPLITCOLOR_NOSPLIT
+  - _USEHATCHINGCONSTANTSCALE_ON
+  - _USELIGHTRAMP_DIFFUSERAMP
+  - _USEOUTLINE_ON
+  m_InvalidKeywords:
+  - _USESHADOWS_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AnisoTex:
+        m_Texture: {fileID: 2800000, guid: 58b6e8a9f58278d418ddae62e8e12994, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AnisotropyMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: ec36099c19fc1be498af12965e4dbd05, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffuseWarpNoise:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HalftoneTexture:
+        m_Texture: {fileID: 2800000, guid: 8d359518c918b044b8c82e113f8e7dc8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch1:
+        m_Texture: {fileID: 2800000, guid: c8c08d397a648314480e236c16a2d39e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch2:
+        m_Texture: {fileID: 2800000, guid: 92a9365c9601d7d4abdcb699c767f3ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LightRampTexture:
+        m_Texture: {fileID: 2800000, guid: 5efb60cccbbb1e049bcb0b290d7fd684, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: c972f3c75ef7ab94694a309009dd016f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 2800000, guid: c3f4a5d645c2b5c4390c8892609a8093, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicSmooth:
+        m_Texture: {fileID: 2800000, guid: c3f4a5d645c2b5c4390c8892609a8093, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PaperTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMaskTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TangentMap:
+        m_Texture: {fileID: 2800000, guid: 66e52c3d6beda4989a507a521ac66048, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AdaptiveThicnkess: 1
+    - _AdditionalLightsAmount: 1
+    - _AdditionalLightsFaloff: 1
+    - _AdditionalLightsIntesity: 1
+    - _AdditionalLightsSmoothnessMultiplier: 1
+    - _AlphaCutoff: 0.5
+    - _AnisoOffset: 0.04
+    - _AnisoOffset2: -0.19
+    - _Anisotropy: 1
+    - _BacklightAmount: 0.5
+    - _BacklightHardness: 0
+    - _BacklightIntensity: 1
+    - _BumpScale: 1
+    - _Cutoff: 0
+    - _Darken: 0.173
+    - _DetailNormalMapScale: 1
+    - _DiffusePosterizeOffset: 0
+    - _DiffusePosterizePower: 1
+    - _DiffusePosterizeSteps: 3
+    - _DiffuseWarpAffectHalftone: 0
+    - _DiffuseWarpBrightnessOffset: 1.12
+    - _DstBlend: 0
+    - _Gloss: 0.75
+    - _Gloss2: 0.5
+    - _GlossMapScale: 0.75
+    - _Glossiness: 0.627
+    - _GlossyReflections: 1
+    - _HalftoneEdgeOffset: 0.077
+    - _HalftoneSmoothness: 1.303
+    - _HalftoneThreshold: 0.15
+    - _HalftoneToonAffect: 0
+    - _HaltonePatternSize: 0
+    - _IndirectLightAffectOnHatch: 0
+    - _IndirectLightStrength: 1
+    - _InverseMask: 0
+    - _LightRampOffset: 0
+    - _Lighten: 0.283
+    - _MainLightIntesity: 1
+    - _MaxScaleDependingOnCamera: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalMapStrength: 1
+    - _OcclusionStrength: 1
+    - _OutlineDynamicSpeed: 0
+    - _OutlineNoiseIntesity: 1
+    - _OutlineNoiseScale: 10
+    - _OutlineTextureStrength: 0
+    - _OutlineType: 0
+    - _OverlayMode: 2
+    - _OverlayMode1: 0
+    - _OverlayRotation: 0
+    - _OverlayUVTilling: 14.9
+    - _PaperTilling: 1
+    - _Parallax: 0.02
+    - _QueueControl: -1
+    - _QueueOffset: 0
+    - _RampDiffuseTextureLoaded: 1
+    - _ReceiveShadows: 1
+    - _Reflection: 0.094
+    - _RimPower: 12
+    - _RimSmoothness: 0
+    - _RimSplitColor: 0
+    - _RimThickness: 1
+    - _ShapeSmoothness: 0.2
+    - _SideShineAmount: 0.2717647
+    - _SideShineHardness: 0
+    - _SideShineIntensity: 1
+    - _SmoothnessMultiplier: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularFaloff: 0.361
+    - _SpecularHighlights: 1
+    - _SpecularMaskRotation: 0
+    - _SpecularMaskScale: 1
+    - _SpecularMaskStrength: 0.1856417
+    - _SpecularPosterizeSteps: 0
+    - _SpecularShadowMask: 0
+    - _Specularity: 0.36
+    - _Specularity2: 0.13
+    - _SrcBlend: 1
+    - _StepHalftoneTexture: 0
+    - _StepOffset: 0
+    - _Strength: 0
+    - _Thicnkess: 0.001
+    - _UVAnimationSpeed: 0
+    - _UVAnimationSpeedSpec: 0
+    - _UVAnimationSpeedWarp: 0
+    - _UVScrollSpeed: 0
+    - _UVScrollSpeedSpec: 0
+    - _UVScrollSpeedWarp: 0
+    - _UVSec: 0
+    - _UVSrcrollAngle: 0
+    - _UVSrcrollAngleSpec: 0
+    - _UVSrcrollAngleWarp: 0
+    - _UseAdaptiveScreenUvs: 0
+    - _UseAdaptiveScreenUvsWarp: 0
+    - _UseAdaptiveUvsSpecular: 0
+    - _UseAdditionalLightsDiffuse: 0
+    - _UseBacklight: 0
+    - _UseDiffuseWarp: 0
+    - _UseDiffuseWarpAsOverlay: 0
+    - _UseDynamicOutline: 0
+    - _UseEmission: 0
+    - _UseEnvironmentRefletion: 0
+    - _UseHatchingConstantScale: 1
+    - _UseLightRamp: 1
+    - _UseOutline: 1
+    - _UsePureSketch: 0
+    - _UseRimLight: 0
+    - _UseScreenUvs: 0
+    - _UseScreenUvsSpecular: 0
+    - _UseScreenUvsWarp: 0
+    - _UseShadows: 1
+    - _UseSpecular: 0
+    - _UseSpecularMask: 0
+    - _WarpStrength: 0
+    - _WarpTextureRotation: 0
+    - _WarpTextureScale: 1
+    - _ZWrite: 1
+    - _numSteps: 4
+    - _value: 0
+    m_Colors:
+    - _Color: {r: 0.5529412, g: 0.13333334, b: 0.13333334, a: 1}
+    - _Color2: {r: 1, g: 0.45588237, b: 0.45588237, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HalftoneColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HatchingColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HighlightColor: {r: 0.8018868, g: 0.094562106, b: 0.21537162, a: 1}
+    - _HighlightColor2: {r: 0.9150943, g: 0.15970986, b: 0.29221818, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 0}
+    - _RimShadowColor: {r: 0, g: 0.055514283, b: 0.9622641, a: 0}
+    - _ShadowColor: {r: 0, g: 0, b: 0, a: 0}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []

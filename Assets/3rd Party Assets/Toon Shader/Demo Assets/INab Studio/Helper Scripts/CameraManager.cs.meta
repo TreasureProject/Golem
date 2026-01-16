@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 71f20312f3223b54780a73928fb64c11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225921
+  packageName: 'Toon Pro: Ultimate Stylized Shading'
+  packageVersion: 3.1.2
+  assetPath: Assets/INab Studio/Demo Assets/INab Studio/Helper Scripts/CameraManager.cs
+  uploadId: 769451

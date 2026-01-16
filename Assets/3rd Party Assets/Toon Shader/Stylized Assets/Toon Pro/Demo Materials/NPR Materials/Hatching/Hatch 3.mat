@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hatch 3
+  m_Shader: {fileID: 4800000, guid: 60e29b7951f20da47b11861d166b7036, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _OVERLAYMODE1_NONE
+  - _OVERLAYMODE_HATCHING
+  - _USELIGHTRAMP_DIFFUSERAMP
+  - _USESPECULAR_ON
+  m_InvalidKeywords:
+  - _OUTLINETYPE_NORMAL
+  - _USEADAPTIVESCREENUVS_ON
+  - _USELIGHTRAMPON
+  - _USEOUTLINE_ON
+  - _USEPURESKETCH_ON
+  - _USESCREENUVSSPECULAR_ON
+  - _USESCREENUVS_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffuseWarpNoise:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HairSpecularMaskTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HalftoneTexture:
+        m_Texture: {fileID: 2800000, guid: 879239ce2e89a8c4699bb8337fdcce9e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch1:
+        m_Texture: {fileID: 2800000, guid: 5b990469244ae694ab3204c6284ef039, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch2:
+        m_Texture: {fileID: 2800000, guid: 47e69ef5f397d07408c87e4e461b62d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LightRampTexture:
+        m_Texture: {fileID: 2800000, guid: bfe6d9beb762ae547ad2d1b79a29ca0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LocalShiftTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PaperTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMaskTexture:
+        m_Texture: {fileID: 2800000, guid: 73a9d9597bf137c45a33c3b3dd631a90, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StrandTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AdaptiveThicnkess: 0
+    - _AdditionalLightsAmount: 0
+    - _AdditionalLightsFaloff: 0
+    - _AdditionalLightsIntesity: 1
+    - _AdditionalLightsSmoothnessMultiplier: 1
+    - _AlphaClip: 0
+    - _AlphaClipThreshold: 0
+    - _AlphaCutoff: 0.5
+    - _BacklightAmount: 0.5
+    - _BacklightHardness: 0
+    - _BacklightIntensity: 1
+    - _Blend: 0
+    - _BumpScale: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _Darken: 0.02
+    - _DiffusePosterizeOffset: 0
+    - _DiffusePosterizePower: 1
+    - _DiffusePosterizeSteps: 3
+    - _DiffuseWarpAffectHalftone: 0
+    - _DiffuseWarpBrightnessOffset: 0
+    - _DstBlend: 0
+    - _EnvironmentReflections: 1
+    - _GlossMapScale: 0
+    - _Glossiness: 0.461
+    - _GlossyReflections: 0
+    - _HairSpecularMaskRotation: 0
+    - _HairSpecularMaskScale: 1
+    - _HairSpecularMaskStrength: 1
+    - _HairSpecularShadowMask: 0
+    - _HalftoneEdgeOffset: 0.1
+    - _HalftoneSmoothness: 0.3
+    - _HalftoneThreshold: 0.1
+    - _HalftoneToonAffect: 0
+    - _HaltonePatternSize: 0
+    - _IndirectLightAffectOnHatch: 0
+    - _IndirectLightStrength: 1
+    - _InverseMask: 0
+    - _LightRampOffset: 0.17
+    - _Lighten: -0.09
+    - _LocalShift: 0
+    - _LocalShiftStrength: 1
+    - _MainLightIntesity: 1.57
+    - _MaxScaleDependingOnCamera: 1
+    - _Metallic: 0
+    - _NormalMapStrength: 1
+    - _OcclusionStrength: 1
+    - _OutlineDynamicSpeed: 0
+    - _OutlineNoiseIntesity: 1
+    - _OutlineNoiseScale: 10
+    - _OutlineTextureStrength: 0
+    - _OutlineType: 0
+    - _OverlayMode: 2
+    - _OverlayMode1: 0
+    - _OverlayRotation: 0
+    - _OverlayUVTilling: 3.08
+    - _PaperTilling: 1
+    - _PrimaryIntensity: 1
+    - _PrimaryPower: 0.46
+    - _PrimarySmoothness: 0.5
+    - _QueueOffset: 0
+    - _RampDiffuseTextureLoaded: 1
+    - _ReceiveShadows: 1
+    - _RimPower: 7.74
+    - _RimSmoothness: 0.421
+    - _RimSplitColor: 0
+    - _RimThickness: 1
+    - _Rotation: 0
+    - _ScrollSpeed: 0.0354
+    - _SecondaryIntensity: 1
+    - _SecondaryPower: 1
+    - _SecondarySmoothness: 0.5
+    - _ShapeSmoothness: 0.2
+    - _SideShineAmount: 0.2717647
+    - _SideShineHardness: 0
+    - _SideShineIntensity: 1
+    - _Smoothness: 0.5
+    - _SmoothnessMultiplier: 0.9
+    - _SmoothnessTextureChannel: 0
+    - _SpecularFaloff: 0
+    - _SpecularHighlights: 1
+    - _SpecularMaskRotation: 0
+    - _SpecularMaskScale: 3.08
+    - _SpecularMaskStrength: 1
+    - _SpecularPosterizeSteps: 0
+    - _SpecularShadowMask: 1
+    - _SrcBlend: 1
+    - _SrcrollAngle: 90
+    - _StepHalftoneTexture: 0
+    - _StepOffset: -0.023
+    - _Strength: 0
+    - _Surface: 0
+    - _Thicnkess: 0.0298
+    - _UVAnimationSpeed: 1.869
+    - _UVAnimationSpeedSpec: 0
+    - _UVAnimationSpeedWarp: 2
+    - _UVScrollSpeed: 0
+    - _UVScrollSpeedSpec: 0
+    - _UVScrollSpeedWarp: 0
+    - _UVSrcrollAngle: 230
+    - _UVSrcrollAngleSpec: 0
+    - _UVSrcrollAngleWarp: 0
+    - _UseAdaptiveScreenUvs: 1
+    - _UseAdaptiveScreenUvsWarp: 0
+    - _UseAdaptiveUvsSpecular: 0
+    - _UseAdditionalLightsDiffuse: 0
+    - _UseBacklight: 0
+    - _UseDiffuseWarp: 0
+    - _UseDiffuseWarpAsOverlay: 0
+    - _UseDynamicOutline: 0
+    - _UseEmission: 0
+    - _UseEnvironmentRefletion: 0
+    - _UseHairSpecular: 0
+    - _UseHairSpecularMask: 0
+    - _UseHatchingConstantScale: 0
+    - _UseLightRamp: 1
+    - _UseOutline: 1
+    - _UsePureSketch: 1
+    - _UseRimLight: 0
+    - _UseScreenUvs: 1
+    - _UseScreenUvsSpecular: 1
+    - _UseScreenUvsWarp: 0
+    - _UseShadows: 1
+    - _UseSpecular: 1
+    - _UseSpecularMask: 0
+    - _UvsAnimationSpeed: 2.3
+    - _WarpStrength: 0
+    - _WarpTextureRotation: 0
+    - _WarpTextureScale: 1
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    - __dirty: 1
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HalftoneColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HatchingColor: {r: 0, g: 0.08627451, b: 0.32941177, a: 1}
+    - _OutlineColor: {r: 0.00091058103, g: 0, b: 0.1878208, a: 0}
+    - _PrimaryColor: {r: 1, g: 1, b: 1, a: 0}
+    - _RimColor: {r: 0.00091058103, g: 0, b: 0.1878208, a: 0}
+    - _RimShadowColor: {r: 0, g: 0.055514283, b: 0.9622641, a: 0}
+    - _SecondaryColor: {r: 1, g: 1, b: 1, a: 0}
+    - _ShadowColor: {r: 0, g: 0, b: 0, a: 0}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+--- !u!114 &8211425756804703187
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 2

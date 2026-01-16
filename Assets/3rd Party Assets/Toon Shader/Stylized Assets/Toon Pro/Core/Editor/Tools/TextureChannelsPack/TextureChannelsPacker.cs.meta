@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5436fa33fca2efc4b814b8db3813546c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225921
+  packageName: 'Toon Pro: Ultimate Stylized Shading'
+  packageVersion: 3.1.2
+  assetPath: Assets/INab Studio/Stylized Assets/Toon Pro/Core/Editor/Tools/TextureChannelsPack/TextureChannelsPacker.cs
+  uploadId: 769451
