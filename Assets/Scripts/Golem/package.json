@@ -1,0 +1,23 @@
+{
+  "name": "com.golem.framework",
+  "version": "1.0.0",
+  "displayName": "Golem AI Framework",
+  "description": "Universal AI agent framework for Unity. Drop AI-controlled characters into any world with personality-driven behavior, persistent memory, and learning capabilities.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/yourname/golem",
+  "keywords": [
+    "ai",
+    "agent",
+    "npc",
+    "bot",
+    "behavior",
+    "claude",
+    "llm",
+    "personality",
+    "learning"
+  ],
+  "author": {
+    "name": "Golem Team"
+  },
+  "dependencies": {}
+}

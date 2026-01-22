@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ba57405de007ffc4ab55199e7e06b7d1
+timeCreated: 1644548983
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252731
+  packageName: POLYGON - Casino - Low Poly 3D Art by Synty
+  packageVersion: 1.8.0
+  assetPath: Assets/PolygonCasino/Shaders/SyntyStudios_Skybox.shader
+  uploadId: 735874

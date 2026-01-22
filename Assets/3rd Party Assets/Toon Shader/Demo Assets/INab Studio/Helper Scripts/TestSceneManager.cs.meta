@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9f8f5864b1fe3a945864e1bef3f537ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225921
+  packageName: 'Toon Pro: Ultimate Stylized Shading'
+  packageVersion: 3.1.2
+  assetPath: Assets/INab Studio/Demo Assets/INab Studio/Helper Scripts/TestSceneManager.cs
+  uploadId: 769451

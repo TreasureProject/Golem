@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da600b691a130964c936f00133c10e73
+timeCreated: 1644537005
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252731
+  packageName: POLYGON - Casino - Low Poly 3D Art by Synty
+  packageVersion: 1.8.0
+  assetPath: Assets/PolygonCasino/Prefabs/Environment/Skydome_01.prefab
+  uploadId: 735874
