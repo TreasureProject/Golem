@@ -1,8 +1,10 @@
 {
-  "name": "Golem.Runtime",
-  "rootNamespace": "Golem",
+  "name": "Systems",
+  "rootNamespace": "",
   "references": [
-    "Systems"
+    "Unity.Cinemachine",
+    "Unity.InputSystem",
+    "Unity.TextMeshPro"
   ],
   "includePlatforms": [],
   "excludePlatforms": [],

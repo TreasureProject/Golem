@@ -70,7 +70,7 @@ namespace Golem
         /// <summary>
         /// Handles legacy celeste_action format for backwards compatibility.
         /// </summary>
-        private void HandleLegacyAction(CelesteActionData actionData)
+        private void HandleLegacyAction(CFConnector.CelesteActionData actionData)
         {
             if (actionData?.action == null) return;
 

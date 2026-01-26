@@ -1,10 +1,11 @@
 using System;
 using UnityEngine;
 using UnityEngine.AI;
-using Golem;
 
-[RequireComponent(typeof(NavMeshAgent))]
-public class PointClickController : MonoBehaviour
+namespace Golem
+{
+    [RequireComponent(typeof(NavMeshAgent))]
+    public class PointClickController : MonoBehaviour
 {
     [SerializeField] private Camera cam;
     [SerializeField] private LayerMask walkableMask = ~0;
@@ -1112,3 +1113,4 @@ public class PointClickController : MonoBehaviour
         }
     }
 }
+} // namespace Golem

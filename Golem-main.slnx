@@ -1,0 +1,11 @@
+﻿<Solution>
+  <Project Path="Systems.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="Golem.Vision.Tests.csproj" />
+  <Project Path="Golem.Vision.csproj" />
+  <Project Path="Golem.Runtime.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Character.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Golem.Vision.PlayModeTests.csproj" />
+</Solution>

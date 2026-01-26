@@ -1,6 +1,6 @@
 {
-  "name": "Golem.Runtime",
-  "rootNamespace": "Golem",
+  "name": "Character",
+  "rootNamespace": "",
   "references": [
     "Systems"
   ],

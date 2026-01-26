@@ -46,3 +46,13 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
+
+# Test results
+*-results*.xml
+playmode-results.xml
+
+# Unity logs
+unity-*.log
+
+# Editor config
+.vscode/

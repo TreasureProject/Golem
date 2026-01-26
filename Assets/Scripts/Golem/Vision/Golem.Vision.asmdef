@@ -1,0 +1,16 @@
+{
+    "name": "Golem.Vision",
+    "rootNamespace": "Golem.Vision",
+    "references": [
+        "Golem.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
